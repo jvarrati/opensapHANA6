@@ -1,0 +1,8 @@
+{
+  "UserData.User": {
+    "target": {
+      "object": "UserData.User",
+      "schema": "OPENSAP_HANA_USER_1"
+    }
+  }
+}

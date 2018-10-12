@@ -1,0 +1,44 @@
+{
+  "ISO.COUNTRIES": {
+    "target": {
+      "object": "ISO.COUNTRIES",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.CURRENCIES": {
+    "target": {
+      "object": "ISO.CURRENCIES",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.CURRENCY_CODES": {
+    "target": {
+      "object": "ISO.CURRNECY_CODES",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.SUBDIVISIONS": {
+    "target": {
+      "object": "ISO.SUBDIVISIONS",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.COUNTRIES_REGIONS": {
+    "target": {
+      "object": "ISO.COUNTRIES_REGIONS",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.US_STATES": {
+    "target": {
+      "object": "ISO.US_STATES",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  },
+  "ISO.US_STATES_AND_TERRITORIES": {
+    "target": {
+      "object": "ISO.US_STATES_AND_TERRITORIES",
+      "schema": "OPENSAP_CENTRAL_DB"
+    }
+  }
+}
